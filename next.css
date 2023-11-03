@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+
+.container3{
+   box-sizing: border-box;
+   width: 600px;
+   height: 400px;
+   padding: 20px;
+   border: 2px solid blueviolet;
+   margin: 10px;
+}
+
+.container4{
+    box-sizing: border-box;
+    width: 600px;
+    height: 400px;
+    padding: 20px;
+    border: 2px solid blueviolet;
+    margin: 10px;
+ }

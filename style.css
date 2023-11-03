@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+
+.container1{
+   box-sizing: border-box;
+   width: 400px;
+   padding: 40px;
+   border: 2px solid black;
+   margin: 10px;
+}
+
+.container2{
+    box-sizing: border-box;
+    width: 400px;
+    padding: 40px;
+    border: 2px solid black;
+    margin: 10px;
+ }
